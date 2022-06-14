@@ -23,8 +23,10 @@ public class AmazonStepDefinitions {
     String arananKelime="Nutella";
     String actuelAramaSonucStr=amazonPage.aramaSonucElementi.getText();
     }
+
     @Then("sayfayi kapatir")
     public void sayfayi_kapatir() {
 
     }
+
 }
