@@ -6,9 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="62e9243f-eff1-4cf1-b136-0a3513bd6114" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/stepDefinitions/AmazonStepDefinitions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/stepDefinitions/AmazonStepDefinitions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/features/amazonSearch.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/amazonSearch.feature" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
