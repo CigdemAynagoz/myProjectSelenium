@@ -26,7 +26,17 @@ public class AmazonStepDefinitions {
 
     @Then("sayfayi kapatir")
     public void sayfayi_kapatir() {
-
+        System.out.println("");
+        System.out.println("");
+        System.out.println("");
+        System.out.println("");
+        System.out.println("");
+        System.out.println("");
+        System.out.println("");
+        System.out.println("");
+        System.out.println("");
+        System.out.println("");
+        System.out.println("");
     }
 
 }
